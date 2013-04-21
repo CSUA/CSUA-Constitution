@@ -21,7 +21,7 @@ An applicant’s membership is not effective until 24 hours after submitting a m
 
 ## Article IV. Officers
 ### A. Types
-The organization shall have seven elected offices, named President, Industrial Relations, Technology , Secretary/Treasurer, Outreach, External Events, and Internal Events.
+The organization shall have five elected offices, named President, Industrial Relations, Technology, Secretary/Treasurer, and Events.
 
 ### B. Qualifications
 Only active members of the Computer Science Undergraduate Association as defined in Article III, Section A shall be allowed to run for and hold any of the aforementioned offices in the Computer Science Undergraduate Association.
@@ -44,6 +44,9 @@ The President shall:
 * Execute mandates reflecting organization policy as determined by the organization’s active members and its elected officers in General and Politburo meetings;
 * Represent the CSUA in its duties as the undergraduate computer science students’ representative body;
 * Maintain contact and communication with the University, its faculty members responsible for teaching computer science, and any other relevant organization;
+* Maintain the CSUA’s website;
+* Publicize CSUA services to the general student body;
+* Promote recruitment of new members;
 * Delegate duties and responsibility, subject to the President's discretion, to responsible individuals;
 * Designate titles and/or form committees as necessary to discharge or delegate duties or responsibilities;
 * Have any other duties and/or responsibilities set forth in this Constitution.
@@ -89,41 +92,16 @@ The Secretary/Treasurer Officer shall:
 * Designate titles and/or form committees as necessary to discharge or delegate duties or responsibilities;
 * Have any other duties and/or responsibilities set forth in this Constitution.
 
-#### Outreach
-The Outreach Officer shall:
+#### Events
+The Events Officer shall:
 
-* Maintain or delegate the maintenance of the CSUA’s website;
-* Maintain the content of the CSUA’s website;
-* Publicize CSUA services to the general student body;
-* Publicize CSUA events to club membership and the general student body, as appropriate
-* Promote interaction between current students and alumni;
-* Promote recruitment of new members;
-* Design and distribute all publication materials for the CSUA;
-* Delegate duties and responsibility, subject to the Outreach Officer's discretion, to responsible individuals;
+* Plan and prepare all logistics for each event;
+* Be present for and run event logistics for the full length of the event;
+* Publicize CSUA events to club membership and the general student body, as appropriate;
+* Design and distribute all publication materials for CSUA events;
+* Delegate duties and responsibility, subject to the Events Officer's discretion, to responsible individuals;
 * Designate titles and/or form committees as necessary to discharge or delegate duties or responsibilities;
 * Have any other duties and/or responsibilities set forth in this Constitution.
-
-#### External Events
-The External Events Officer shall:
-
-* Plan and prepare all logistics for each external event;
-* Be present for and run external event logistics
-* Delegate duties and responsibility, subject to the External Events Officer's discretion, to responsible individuals;
-* Designate titles and/or form committees as necessary to discharge or delegate duties or responsibilities;
-* Have any other duties and/or responsibilities set forth in this Constitution.
-
-An external event is defined as an event sponsored by a company.
-
-#### Internal Events
-The Internal Events Officer shall:
-
-* Plan and prepare all logistics for each internal event;
-* Be present for and run internal event logistics
-* Delegate duties and responsibility, subject to the Internal Events Officer's discretion, to responsible individuals;
-* Designate titles and/or form committees as necessary to discharge or delegate duties or responsibilities;
-* Have any other duties and/or responsibilities set forth in this Constitution.
-
-An internal event is defined as an event that does not have a company sponsor. This includes inter-club events, intra-club events, alumni events, and recruitment events.
 
 ## Article V. Committees
 ### The Politburo
@@ -163,20 +141,26 @@ If all offices are made vacant, then the Faculty Advisor shall call and chair a 
 ## Article VIII. Meetings
 ### A. Procedure
 All meetings will run under Parliamentary procedure or some subset of the same. All questions, unless otherwise noted by this Constitution, shall require a majority vote by elected officers. All meetings shall be held at reasonable places and times. Members may vote and run by proxy. Questions impacting active membership should receive special consideration for open discussion.
+
 ### B. General Meetings
 General Meetings shall be held three times a semester while school is in regular session, and shall be publicly announced no less than a week in advance.
+
 ### C. Politburo Meetings
 Politburo Meetings may be called by the President or by one-third of the Politburo. At least three meetings a semester while school is in regular session must be held open to the membership of the CSUA. Other meetings may be closed at the request of one-third of those members attending or in the event of disciplinary actions. In such a case, a listing of general topics discussed will be made available within one week after the meeting.
+
 ### D. Committee Meetings
 Committee meetings will be run under the same rules as the General Meetings. Meetings will be open to attendance by all members.
+
 ### E. Quorum
-Quorum shall be defined as having 4/7 of Politburo in accordance with any subject.
+Quorum shall be defined as having 3/5 of Politburo in accordance with any subject.
 
 ## Article IX. Bylaws and Policies
 ### A. Bylaws
 Further guidelines pertaining to the operation of the CSUA not specifically set forth in the Constitution shall be contained in a set of publicly-available bylaws. Bylaws may be proposed by any active member of the CSUA, and must be approved by a majority vote of the Politburo.
+
 ### B. Policies
 Regulations pertaining to conduct of CSUA members in CSUA activities and in use of CSUA resources shall be contained in a set of publicly-available policies. Politburo members may formulate and implement interim policies in the execution of their duties, subject to later approval of a majority of the Politburo at the next Politburo meeting.
+
 ### C. Amendments to Bylaws and Policies
 Amendments to bylaws and policies may be proposed by any active member, and must be approved by a majority vote of the Politburo. Such amendments may be overturned by a two-thirds vote of the general membership at a general meeting.
 
