@@ -21,7 +21,7 @@ An applicant’s membership is not effective until 24 hours after submitting a m
 
 ## Article IV. Officers
 ### A. Types
-The organization shall have seven elected offices, named President, Industrial Relations, Technology , Secretary/Treasurer, Outreach, External Events, and Internal Events.
+The organization shall have five elected offices, named President, Industrial Relations, Technology, Secretary/Treasurer, and Events.
 
 ### B. Qualifications
 Only active members of the Computer Science Undergraduate Association as defined in Article III, Section A shall be allowed to run for and hold any of the aforementioned offices in the Computer Science Undergraduate Association.
@@ -99,7 +99,7 @@ The Events Officer shall:
 * Be present for and run event logistics for the full length of the event;
 * Publicize CSUA events to club membership and the general student body, as appropriate;
 * Design and distribute all publication materials for CSUA events;
-* Delegate duties and responsibility, subject to the Internal Events Officer's discretion, to responsible individuals;
+* Delegate duties and responsibility, subject to the Events Officer's discretion, to responsible individuals;
 * Designate titles and/or form committees as necessary to discharge or delegate duties or responsibilities;
 * Have any other duties and/or responsibilities set forth in this Constitution.
 
@@ -152,7 +152,7 @@ Politburo Meetings may be called by the President or by one-third of the Politbu
 Committee meetings will be run under the same rules as the General Meetings. Meetings will be open to attendance by all members.
 
 ### E. Quorum
-Quorum shall be defined as having 4/7 of Politburo in accordance with any subject.
+Quorum shall be defined as having 3/5 of Politburo in accordance with any subject.
 
 ## Article IX. Bylaws and Policies
 ### A. Bylaws
