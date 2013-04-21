@@ -163,20 +163,26 @@ If all offices are made vacant, then the Faculty Advisor shall call and chair a 
 ## Article VIII. Meetings
 ### A. Procedure
 All meetings will run under Parliamentary procedure or some subset of the same. All questions, unless otherwise noted by this Constitution, shall require a majority vote by elected officers. All meetings shall be held at reasonable places and times. Members may vote and run by proxy. Questions impacting active membership should receive special consideration for open discussion.
+
 ### B. General Meetings
 General Meetings shall be held three times a semester while school is in regular session, and shall be publicly announced no less than a week in advance.
+
 ### C. Politburo Meetings
 Politburo Meetings may be called by the President or by one-third of the Politburo. At least three meetings a semester while school is in regular session must be held open to the membership of the CSUA. Other meetings may be closed at the request of one-third of those members attending or in the event of disciplinary actions. In such a case, a listing of general topics discussed will be made available within one week after the meeting.
+
 ### D. Committee Meetings
 Committee meetings will be run under the same rules as the General Meetings. Meetings will be open to attendance by all members.
+
 ### E. Quorum
 Quorum shall be defined as having 4/7 of Politburo in accordance with any subject.
 
 ## Article IX. Bylaws and Policies
 ### A. Bylaws
 Further guidelines pertaining to the operation of the CSUA not specifically set forth in the Constitution shall be contained in a set of publicly-available bylaws. Bylaws may be proposed by any active member of the CSUA, and must be approved by a majority vote of the Politburo.
+
 ### B. Policies
 Regulations pertaining to conduct of CSUA members in CSUA activities and in use of CSUA resources shall be contained in a set of publicly-available policies. Politburo members may formulate and implement interim policies in the execution of their duties, subject to later approval of a majority of the Politburo at the next Politburo meeting.
+
 ### C. Amendments to Bylaws and Policies
 Amendments to bylaws and policies may be proposed by any active member, and must be approved by a majority vote of the Politburo. Such amendments may be overturned by a two-thirds vote of the general membership at a general meeting.
 
