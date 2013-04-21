@@ -44,6 +44,9 @@ The President shall:
 * Execute mandates reflecting organization policy as determined by the organization’s active members and its elected officers in General and Politburo meetings;
 * Represent the CSUA in its duties as the undergraduate computer science students’ representative body;
 * Maintain contact and communication with the University, its faculty members responsible for teaching computer science, and any other relevant organization;
+* Maintain the CSUA’s website;
+* Publicize CSUA services to the general student body;
+* Promote recruitment of new members;
 * Delegate duties and responsibility, subject to the President's discretion, to responsible individuals;
 * Designate titles and/or form committees as necessary to discharge or delegate duties or responsibilities;
 * Have any other duties and/or responsibilities set forth in this Constitution.
@@ -89,41 +92,16 @@ The Secretary/Treasurer Officer shall:
 * Designate titles and/or form committees as necessary to discharge or delegate duties or responsibilities;
 * Have any other duties and/or responsibilities set forth in this Constitution.
 
-#### Outreach
-The Outreach Officer shall:
+#### Events
+The Events Officer shall:
 
-* Maintain or delegate the maintenance of the CSUA’s website;
-* Maintain the content of the CSUA’s website;
-* Publicize CSUA services to the general student body;
-* Publicize CSUA events to club membership and the general student body, as appropriate
-* Promote interaction between current students and alumni;
-* Promote recruitment of new members;
-* Design and distribute all publication materials for the CSUA;
-* Delegate duties and responsibility, subject to the Outreach Officer's discretion, to responsible individuals;
-* Designate titles and/or form committees as necessary to discharge or delegate duties or responsibilities;
-* Have any other duties and/or responsibilities set forth in this Constitution.
-
-#### External Events
-The External Events Officer shall:
-
-* Plan and prepare all logistics for each external event;
-* Be present for and run external event logistics
-* Delegate duties and responsibility, subject to the External Events Officer's discretion, to responsible individuals;
-* Designate titles and/or form committees as necessary to discharge or delegate duties or responsibilities;
-* Have any other duties and/or responsibilities set forth in this Constitution.
-
-An external event is defined as an event sponsored by a company.
-
-#### Internal Events
-The Internal Events Officer shall:
-
-* Plan and prepare all logistics for each internal event;
-* Be present for and run internal event logistics
+* Plan and prepare all logistics for each event;
+* Be present for and run event logistics for the full length of the event;
+* Publicize CSUA events to club membership and the general student body, as appropriate;
+* Design and distribute all publication materials for CSUA events;
 * Delegate duties and responsibility, subject to the Internal Events Officer's discretion, to responsible individuals;
 * Designate titles and/or form committees as necessary to discharge or delegate duties or responsibilities;
 * Have any other duties and/or responsibilities set forth in this Constitution.
-
-An internal event is defined as an event that does not have a company sponsor. This includes inter-club events, intra-club events, alumni events, and recruitment events.
 
 ## Article V. Committees
 ### The Politburo
