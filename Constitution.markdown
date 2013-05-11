@@ -21,7 +21,7 @@ An applicant’s membership is not effective until 24 hours after submitting a m
 
 ## Article IV. Officers
 ### A. Types
-The organization shall have seven elected offices, named President, Vice President of Industrial Relations (or VP Indrel), Vice President of Technology (VP Tech), Treasurer/Secretary, Outreach Chair, External Events Coordinator, and Internal Events Coordinator.
+The organization shall have seven elected offices, named President, Industrial Relations, Technology , Secretary/Treasurer, Outreach, External Events, and Internal Events.
 
 ### B. Qualifications
 Only active members of the Computer Science Undergraduate Association as defined in Article III, Section A shall be allowed to run for and hold any of the aforementioned offices in the Computer Science Undergraduate Association.
@@ -40,85 +40,90 @@ Officers who resign from office, no longer meet the qualifications set above, or
 #### President
 The President shall:
 
-* chair, or appoint the chair for, the meetings of the CSUA;
-* be responsible for the execution of mandates reflecting organization policy as determined by the organization’s active members and its officers in General and Politburo Executive Meetings;
-* be primarily responsible for representing the CSUA in its duties as the undergraduate computer science students’ representative body;
-* maintain contact and communication with the University, its faculty members responsible for teaching computer science, and any other relevant organization;
-* appoint chairs for the various committees, subject to confirmation by the Politburo;
-* organize and orchestrate the passing on of knowledge from one generation of Politburo to the next;
-* establish contact with other student organizations for the purpose of coordinating interclub events;
-* have any other duties and/or responsibilities set forth in this Constitution.
+* Run the meetings of the CSUA, or delegate them to a representative;
+* Execute mandates reflecting organization policy as determined by the organization’s active members and its elected officers in General and Politburo meetings;
+* Represent the CSUA in its duties as the undergraduate computer science students’ representative body;
+* Maintain contact and communication with the University, its faculty members responsible for teaching computer science, and any other relevant organization;
+* Delegate duties and responsibility, subject to the President's discretion, to responsible individuals;
+* Designate titles and/or form committees as necessary to discharge or delegate duties or responsibilities;
+* Have any other duties and/or responsibilities set forth in this Constitution.
 
-#### Vice President of Industrial Relations
-The VP of Industrial Relations shall:
+#### Industrial Relations
+The Industrial Relations Officer shall:
 
-* liaise with companies and attain sponsors for CSUA’s external events;
-* generate industrial interest in the CSUA;
-* liaise with CSUA alumni;
-* coordinate speakers from alumni or industry;
-* manage infosessions for CSUA;
-* manage the jobs board/list-serv;
-* manage and administer the resume booklet;
-* assist the President in execution of duties;
-* handle requests by Internal Events Coordinator for a speaker for an internal event;
-* have any other duties and/or responsibilities set forth in this Constitution.
+* Liaise with companies and attain sponsors for relevant CSUA events;
+* Liaise with CSUA alumni;
+* Maintain contact and communication with the necessary companies, individuals, or other external entities relating to computer science;
+* Manage the jobs mailing list or other lists pertaining to student-industry communication;
+* Delegate duties and responsibility, subject to the Industrial Relations Officer's discretion, to responsible individuals;
+* Designate titles and/or form committees as necessary to discharge or delegate duties or responsibilities;
+* Have any other duties and/or responsibilities set forth in this Constitution.
 
-#### Vice President of Technology
-The VP Tech shall:
+#### Technology
+The Technology Officer shall:
 
-* administer and maintain the technical resources of the CSUA, including but not limited to our list-servs;
-* be the chief administrator of computer equipment maintained by the CSUA;
-* be head of our root staff;
-* be our liaison with all campus IT and technical services;
-* solve or delegate the solving of technical issues should any arise;
-* have any other duties and/or responsibilities set forth in this Constitution.
+* Administer, maintain, and debug the technical resources of the CSUA, including but not limited to:
+    * mailing lists,
+    * computer equipment,
+    * root staff membership;
+* Liaise with all campus IT and technical services;
+* Delegate duties and responsibility, subject to the Technology Officer's discretion, to responsible individuals;
+* Designate titles and/or form committees as necessary to discharge or delegate duties or responsibilities;
+* Have any other duties and/or responsibilities set forth in this Constitution.
 
 #### Secretary/Treasurer
-The Secretary/Treasurer shall:
+The Secretary/Treasurer Officer shall:
 
-* take minutes at Politburo and General meetings;
-* manage our library of computer science books;
-* maintain all necessary financial and non-financial records of the organization;
-* administer the CSUA’s physical resources;
-* maintain or delegate the maintenance of the CSUA’s facility resources;
-* maintain the CSUA’s monetary resources;
-* maintain a publicly available record of all financial transactions, liabilities, and credits relating to the CSUA;
-* report on the financial status of the CSUA to its members and officers;
-* obtain financial agency power with the ASUC as soon as possible after election;
-* obtain primary signatory power with the ASUC as soon as possible after election
-* have any other duties and/or responsibilities set forth in this Constitution.
+* Take minutes at Politburo and General meetings;
+* Maintain the CSUA’s monetary resources;
+* Administer, maintain, and troubleshoot the CSUA’s physical resources, including but not limited to:
+    * library of books,
+    * CSUA-owned or managed items,
+    * CSUA-managed rooms and facilities (i.e. office, lounge, locker room);
+* Maintain all necessary financial and non-financial records of the organization;
+* Maintain a publicly available record of all financial transactions, liabilities, and credits relating to the CSUA;
+* Report on the financial status of the CSUA to its members and officers;
+* Obtain financial agency power with the ASUC as soon as possible after election;
+* Obtain primary signatory power with the ASUC as soon as possible after election;
+* Delegate duties and responsibility, subject to the Secretary/Treasurer's discretion, to responsible individuals;
+* Designate titles and/or form committees as necessary to discharge or delegate duties or responsibilities;
+* Have any other duties and/or responsibilities set forth in this Constitution.
 
-#### Outreach Chair
-The Outreach Chair shall:
+#### Outreach
+The Outreach Officer shall:
 
-* maintain or delegate the maintenance of the CSUA’s website;
-* maintain the content of the CSUA’s website;
-* publicize our services to the general student body;
-* be responsible for publicizing all internal and external events to the club membership and the general student body, respectively;
-* promote interaction between current students and alumni;
-recruit new members;
-design and distribute (or delegate) all publication materials for the CSUA;
-have any other duties and/or responsibilities set forth in this Constitution.
+* Maintain or delegate the maintenance of the CSUA’s website;
+* Maintain the content of the CSUA’s website;
+* Publicize CSUA services to the general student body;
+* Publicize CSUA events to club membership and the general student body, as appropriate
+* Promote interaction between current students and alumni;
+* Promote recruitment of new members;
+* Design and distribute all publication materials for the CSUA;
+* Delegate duties and responsibility, subject to the Outreach Officer's discretion, to responsible individuals;
+* Designate titles and/or form committees as necessary to discharge or delegate duties or responsibilities;
+* Have any other duties and/or responsibilities set forth in this Constitution.
 
-#### External Events Coordinator
-The External Events Coordinator shall:
+#### External Events
+The External Events Officer shall:
 
-* plan and prepare all logistics for each external event;
-* be or appoint the day-of event coordinator to execute the event and handle any issues that might arise;
-* have any other duties and/or responsibilities set forth in this Constitution.
+* Plan and prepare all logistics for each external event;
+* Be present for and run external event logistics
+* Delegate duties and responsibility, subject to the External Events Officer's discretion, to responsible individuals;
+* Designate titles and/or form committees as necessary to discharge or delegate duties or responsibilities;
+* Have any other duties and/or responsibilities set forth in this Constitution.
 
 An external event is defined as an event sponsored by a company.
 
-#### Internal Events Officer
+#### Internal Events
 The Internal Events Officer shall:
 
-* create fun internal events;
-* plan and prepare all logistics for each internal event;
-* be or appoint the day-of event coordinator to execute the event and handle any issues that might arise;
-* submit a request to VP Indrel to obtain a speaker for an internal event should a speaker be required;
-* have any other duties and/or responsibilities set forth in this Constitution.
+* Plan and prepare all logistics for each internal event;
+* Be present for and run internal event logistics
+* Delegate duties and responsibility, subject to the Internal Events Officer's discretion, to responsible individuals;
+* Designate titles and/or form committees as necessary to discharge or delegate duties or responsibilities;
+* Have any other duties and/or responsibilities set forth in this Constitution.
 
-An internal event is defined as an event that does not have a company sponsor. This includes interclub events, intraclub events, alumni events, and recruitment events.
+An internal event is defined as an event that does not have a company sponsor. This includes inter-club events, intra-club events, alumni events, and recruitment events.
 
 ## Article V. Committees
 ### The Politburo
@@ -132,31 +137,32 @@ Other committees may be created or dissolved at the direction of either the Poli
 Officers shall be selected each semester by a majority vote of the attending General Membership at a General Meeting held no less than two weeks before the last day of instruction, announced no less than one week in advance, and held at a time and place that is considered generally accessible as well in compliance with ASUC regulations concerning accessibility of ASUC sponsored activities.
 
 ### B. Procedure
-The chair shall appoint an election officer, who shall not vote or run for office. The election officer must be a member. Members shall be nominated until no more are willing and eligible. No person shall be nominated who is not willing to serve upon their election, and no person not present can be nominated for an office without his or her written consent being presented at the meeting. If only one candidate is in nomination voting may be done by acclamation. Otherwise voting shall be done by secret ballot of active members. A ballot that is blank or otherwise does not uniquely identify a nominated candidate shall not be counted.
+The chair shall appoint an election officer, who shall not vote or run for office.
 
-If there is at any time a majority for a candidate, that candidate wins. If there is no majority and there are two candidates the election officer shall cast the deciding vote. If there is no majority and there are three candidates, the one with the fewest votes shall be eliminated. If there is a tie among those with the fewest votes the election officer shall select one to be eliminated.
+To be eligible for election, nominees must qualify as active members for the following semester. Officers shall be nominated until no more are willing and eligible. No person shall be nominated who is not willing to serve upon their election, and no person not present can be nominated for an office without the presentation of written consent at the meeting. If only one candidate is in nomination, voting may be done by acclamation. Otherwise, voting shall be done by secret ballot of active members. A ballot that is blank or otherwise does not uniquely identify a nominated candidate shall not be counted.
+
+If there is at any time a simple majority for a candidate, that candidate wins. If there is no majority and there are two candidates the election officer shall cast the deciding vote. If there is no majority and there are three candidates, the one with the fewest votes shall be eliminated. If there is a tie among those with the fewest votes the election officer shall select one to be eliminated.
 
 If there are more than three candidates, three shall be selected to proceed to a runoff round as follows. Select as many candidates as possible for the runoff, starting from those with the highest vote totals, until it is impossible to proceed without selecting more than three or discriminating between candidates who received the same number of votes. If it is not possible to select any candidates in this way because there is a tie for first, the election officer shall cast a vote for one of the tied first-place candidates. If there are then fewer than three candidates selected for the runoff round, a new vote shall be held among those candidates not already chosen to select the remaining candidates.
 
 ## Article VII. Removal and Replacement of Officers
 ### A. Removal
 An officer may be removed from office in one of the following ways:
-In the event of extended unexplained absence of an officer, the office may be declared vacant by a majority of the remaining officers.
 
-Any officer no longer qualified to hold office shall be removed, persuant to Politburo’s vote; a unanimous vote of the other officers in office may remove an officer from office.
+* In the event of extended unexplained absence of an officer, the office may be declared vacant by a majority of the remaining officers.
+* Any officer no longer qualified to hold office shall be removed, pursuant to Politburo’s vote; a unanimous vote of the other officers in office may remove an officer from office.
+* In the event of a vacancy of an office the President will be responsible for ensuring that the obligations of that office are fulfilled until a replacement has been made.
 
-In the event of a vacancy of an office the President will be responsible for ensuring that the obligations of that office are fulfilled until a replacement has been made.
 ### B. Replacement
-In case of removal or resignation from office of one of the elected officers except the President, the President shall appoint a successor. All such appointments to office must be confirmed by a majority vote of the Politburo at the next announced Politburo meeting. As stated in Article IV, in the event the office of President is vacated for whatever reason, the VP of Industrial Relations shall either assume the office of President without need for confirmation until the next General Meeting, and shall appoint a successor to be approved by a majority vote of the Politburo at the next Politburo meeting to serves as successor until the next General Meeting, at which point a majority vote of the active membership will elect a new President to office, or, appoint an eligible member to assume the office of President until the next General Meeting.
+In case of removal or resignation from office of one of the elected officers except the President, the President shall appoint a successor. All such appointments to office must be confirmed by a majority vote of the Politburo at the next announced Politburo meeting. As stated in Article IV, in the event the office of President is vacated for whatever reason, the Industrial Relations Officer shall either assume the office of President without need for confirmation until the next General Meeting, and shall appoint a successor to be approved by a majority vote of the Politburo at the next Politburo meeting to serves as successor until the next General Meeting, at which point a majority vote of the active membership will elect a new President to office, or appoint an eligible member to assume the office of President until the next General Meeting.
 
-If both the offices of President and VP of Industrial Relations are vacated in such a way to obstruct the aforementioned order of succession, a general meeting is to be held within the 2 weeks following. At this general meeting, an election is to be held in which a new President and then a new VP of Industrial Relations will be elected by majority vote of the active membership. The remaining members of politburo shall share the responsibilities of any vacated positions during the interim 2 weeks.
+If both the offices of President and Industrial Relations are vacated in such a way to obstruct the aforementioned order of succession, a general meeting is to be held within the 2 weeks following. At this general meeting, an election shall be held in which vacated positions will be filled by majority vote of the present active membership. The remaining members of Politburo shall share the responsibilities of any vacated positions during the interim.
 
 If all offices are made vacant, then the Faculty Advisor shall call and chair a general meeting to elect new officers.
 
 ## Article VIII. Meetings
 ### A. Procedure
-All meetings will run under Parliamentary procedure or some subset of the same. All questions, unless otherwise noted by this Constitution, shall require a majority vote. Only active members of the organization are eligible to vote. All meetings shall be held at reasonable places and times.
-Members may vote and run by proxy.
+All meetings will run under Parliamentary procedure or some subset of the same. All questions, unless otherwise noted by this Constitution, shall require a majority vote by elected officers. All meetings shall be held at reasonable places and times. Members may vote and run by proxy. Questions impacting active membership should receive special consideration for open discussion.
 ### B. General Meetings
 General Meetings shall be held three times a semester while school is in regular session, and shall be publicly announced no less than a week in advance.
 ### C. Politburo Meetings
